@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-BlackItalic.woff2') format('woff2'),
+       url('../fonts/Roboto-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Bold.woff2') format('woff2'),
+       url('../fonts/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Italic.woff2') format('woff2'),
+       url('../fonts/Roboto-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Black.woff2') format('woff2'),
+       url('../fonts/Roboto-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-BoldItalic.woff2') format('woff2'),
+       url('../fonts/Roboto-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Thin.woff2') format('woff2'),
+       url('../fonts/Roboto-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Medium.woff2') format('woff2'),
+       url('../fonts/Roboto-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Light.woff2') format('woff2'),
+       url('../fonts/Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-LightItalic.woff2') format('woff2'),
+       url('../fonts/Roboto-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-ThinItalic.woff2') format('woff2'),
+       url('../fonts/Roboto-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Regular.woff2') format('woff2'),
+       url('../fonts/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-MediumItalic.woff2') format('woff2'),
+       url('../fonts/Roboto-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-ExtraBold.woff2') format('woff2'),
+       url('../fonts/Sarabun-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-ExtraLightItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-ExtraBoldItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-ExtraLight.woff2') format('woff2'),
+       url('../fonts/Sarabun-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-BoldItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-Bold.woff2') format('woff2'),
+       url('../fonts/Sarabun-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-Medium.woff2') format('woff2'),
+       url('../fonts/Sarabun-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-Light.woff2') format('woff2'),
+       url('../fonts/Sarabun-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-Italic.woff2') format('woff2'),
+       url('../fonts/Sarabun-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-LightItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-Regular.woff2') format('woff2'),
+       url('../fonts/Sarabun-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-SemiBoldItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-MediumItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-SemiBold.woff2') format('woff2'),
+       url('../fonts/Sarabun-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-ThinItalic.woff2') format('woff2'),
+       url('../fonts/Sarabun-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    src:url('../fonts/Sarabun-Thin.woff2') format('woff2'),
+       url('../fonts/Sarabun-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sen';
+    src:url('../fonts/Sen-ExtraBold.woff2') format('woff2'),
+       url('../fonts/Sen-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sen';
+    src:url('../fonts/Sen-Bold.woff2') format('woff2'),
+       url('../fonts/Sen-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

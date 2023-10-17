@@ -1,0 +1,19 @@
+
+link: https://preview.colorlib.com/theme/eventz/
+
+
+
+
+headerT-color: #112957;
+btnT-color: #fff;
+
+primary-color: #331391;
+secondry-color: fff;
+
+
+
+header-font: sen;
+btn-font: roboto;
+content-font: sarabun;
+
+
